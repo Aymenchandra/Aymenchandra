@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aymen Chandra</h1>
 <h3 align="center">My experience in web development and data science, along with a genuine interest in exploring new ideas, enables me to deliver effective outcomes.</h3>
-
-- 👨‍💻 All of my projects are available at [https://aymenchandra.github.io/Portfolio/](https://aymenchandra.github.io/Portfolio/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aymen-chandra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aymen-chandra/" height="30" width="40" /></a>
